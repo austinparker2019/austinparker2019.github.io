@@ -1,0 +1,40 @@
+h2 {
+    font-family: sans-serif;
+    color:#DC602E;
+}
+div{
+    padding-block: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    color:#595758;
+    background-color:#FFF9FB;
+}
+header{
+    font-size:x-large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    background-color:#595758;
+    color:white
+}
+li{
+    font-family: sans-serif;
+    text-align: center;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    font-family: sans-serif;
+    list-style-position: inside;
+}
+footer{
+    padding-block: 10px;
+    font-family: sans-serif;
+    color:white;
+    text-align: center;
+    background-color:#595758;
+}
+

@@ -1,0 +1,20 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template/the-big-picture)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body {
+  background: rgb(122,14,0);
+  background: linear-gradient(90deg, rgba(122,14,0,1) 0%, rgba(255,179,0,1) 100%);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.theboard {
+ 
+  justify-content: center;
+  align-self: center;
+  display: flex;
+}
